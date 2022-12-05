@@ -1,5 +1,7 @@
 # Minha Bio
 
+![foto de perfil](foto.jpeg)
+
 ## Dados
 
 * _Nome_: Chrystian Arriel Amaral
